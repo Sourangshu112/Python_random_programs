@@ -1,0 +1,8 @@
+a=float(input("Enter a number"))
+b=float(input("Enter another number"))
+#print("Sum of two numbers =", a+b)
+#print("difference of two numbers =", a-b)
+#print("multiplication of two numbers =", a*b)
+#print("division of two numbers =", a/b)
+#print("modulus of two numbers =", a%b)
+print("Sum of two numbers =", a+b , "difference of two numbers =", a-b , "multiplication of two numbers =", a*b , "division of two numbers =", a/b ,"modulus of two numbers =", a%b)

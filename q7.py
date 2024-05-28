@@ -1,0 +1,11 @@
+import math
+a = int(input("Enter the first number"))
+b = int(input("Enter the second number"))
+gcd = math.gcd(a,b)
+power = math.pow(a,b)
+sqroot_a = math.sqrt(a)
+sqroot_b = math.sqrt(b)
+print("The GCD of the two number is ",gcd)
+print("The power of the first number raised to the second number",power)
+print("The square root of the first number",sqroot_a)
+print("The square root of the second number",sqroot_b)

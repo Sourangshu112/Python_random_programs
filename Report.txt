@@ -1,0 +1,137 @@
+Python programming language is one of dynamic and object-oriented programming languages used for 
+the development of diverse kinds of software developed by the Python Software foundation. Its 
+significant advantage is that facilitates integration with other programing languages and software 
+development tools. In addition, it has in-built standard libraries that are extensive. This means that it 
+facilitates the development of a better source code.
+The programming paradigm of Python language embarks on the readability of the source code 
+enhanced through clear syntax. Apart from object-oriented programming paradigm, Python can 
+implement other programming methodologies such as functional programing and imperative 
+programming (Beazley 67).
+Another important feature of Python language that makes it suitable as a software development tool is
+ that it has a dynamic type system and its memory management strategy is automatic. In addition, it 
+can support the implementation of scripting applications. It is important to note that the development 
+model of Python language is community based, implying that its reference implementation is free and 
+bases on the open source platform. There are various interpreters for the language for various systems 
+software, although programs developed by Python are executable in any environment irrespective of 
+operating system environment (Hetland 78).
+The development of Python language began during the late 80s, with its implementation done on the 
+December of 1989. Python was a successor of the ABC programming language, which had the 
+capabilities of exception handling and implementing an interface with the Amoeba System Software. 
+The release of Python 2.0 during 2000 saw the inclusion of newer features such as offering support 
+for Unicode and garbage collection (Beazley 89).
+The significant change was its transformation making its development process community based. 
+The release of Python 3.0 took place during 2008. Python language boasts of winning two awards by 
+the TIOBE as the programming of language of the year during 2007 and 2010, resulting to an increase 
+in the popularity of the language (Hetland 56).
+A web service is defines as a program that can transform any client application to a web-based 
+application. The development of web services significantly depends on the scripting abilities of a 
+programming language. An important aspect of Python language is that it can be used in scripting, 
+implying that it is an effective development tool for web services. Web services developed by Python 
+function using the standard messaging formats and they can be interfaced with other software 
+development tools using the conventional Application Programming Interface (API).
+Web programming using Python entails two major paradigms: server programming and client 
+programming (Beazley 90). Server programming entails the development of web services that run on 
+the web server, while client programming entails the development of web services that that run on the 
+client side (Hetland 90). There are diverse approaches to server programming, examples include the 
+WebFrameworks used for development of server side services using Python; CgiScripts used to write 
+scripting applications in Python; Webservers, which are server solutions developed using Python.
+Web services developed in Python are primarily used to offer access and functionality of the APIs via 
+the web. On the client side, Python language can be used in a number of ways including Web Browser 
+Programming, Web Client Programming and Web services. There are various libraries in Python for
+ the development of web services; examples include the Simple Object Access Protocol (SOAP) and 
+the Web Services Description Language (WSDL).
+Python language has extensive in-built tools that can provide support to Internet protocols, coupled 
+with its code readability characteristic, Python is therefore one of the most appropriate programming 
+languages that can be used in the development of dynamic web content using the concept of dynamic 
+programming. Some of the in-built facilities included in Python that can facilitate dynamic 
+programming and development of web services include (Beazley 123)
+A web framework is an important aspect in the development of web services and web-based 
+applications. They allow the web developer to design web services without the need deploy 
+low-level protocols and sockets. Most of the available web frameworks technology based on server 
+side scripting, with a few frameworks supporting client side scripting (Hetland 122).
+Python language uses web frameworks for the development of web services through providing an 
+avenue through which web developers can simply write codes basing on some standards of conformity
+ to that particular framework. This concept of web service development in Python is known as 
+plugging. Python language web frameworks provide diverse activities such as the interpretation of 
+requests, production of responses and persistent data storage.
+These processes are an integral part of the web services development (Beazley 67). An example of 
+Python web frameworks is the Full stack frameworks, which consists of high-level components such 
+as Django, Grok, Pylons and TurboGears. Python language can support other full stack web 
+frameworks. The ability of Python language to support diverse web frameworks makes it one of the 
+best programming languages that can be used for web service development.
+The two basic Python tool kits used in web service development are the gSOAP and the ZSI. The 
+ZSI package found in Python has in-built capabilities that can support SOAP 1.1 messaging formats 
+and WSDL frameworks. Web service development is easy to implement using ZSI package. The 
+gSOAP toolkit also provides an effective platform for code development aimed implementing web 
+services in Python language. Technologies such as JSON-RPC and SOAP also favor the development 
+of codes for web services.
+Under the JSON-RPC, Python-json-rpc is used in the development of web services. Environments 
+such as the WSDL and Windows Common Foundation (WCF) on the other hand favor SOAP, which 
+technologies such as Suds, Soaplib, psimblesoap and ZSI. It is also important to note that Python can 
+be embedded in XML to develop web services under the XML-RPC platform. This comes as a 
+provision in the inbuilt library of Python programming language (Drake 100).
+SOAP is a protocol that is used for exchange of structured messaging formats during the development 
+and implementation of web services. SOAP significantly relies on XML for the design of its message 
+format. On addition, it also depends on protocols that are found in the application layer such as Remote Procedure Calls and HTTP in order to facilitate the transmission of the message.
+An important characteristic of SOAP is that it can be used to form an integral part of the web services 
+protocol stack, which are used for offering the framework for messaging. Messaging frameworks play 
+an important role in the development of code for web services. This implies that programming 
+languages, such as Python, that have messaging frameworks are effective in web services 
+development. The three basic elements of the SOAP protocol based on the XML framework are the 
+envelope, data types and conventions
+The envelope defines the elements contained in the message and the various approaches used in 
+message processing (Drake 145). The convention is a set of procedures used to represent the SOAP 
+requests and responses. As an instance of how SOAP requests and responses can be implemented, 
+messages that are in the SOAP framework are sent to a web page that has the capability to handle 
+web services.
+An example of such a website can be a library database that has some specified search parameters to 
+distinguish the various database elements such as year of publication, author name and so on. If the 
+search data that is supposed to be returned is changed into a format that is standardized and based on 
+the machine-parseable functionality, then a SOAP request can be implemented effectively during the 
+development of web services (Hetland 67).
+The SOAP request and response platform has several layers that are used for specifying the message 
+formats, the transport protocols and the various strategies for message processing. It can be argued 
+that SOAP is a more advanced XML-RPC, although it has features borrowed from WDDX. The 
+SOAP specification framework comprises of the processing model, extensibility model, underlying 
+protocol binding and the message construct.
+The processing model of SOAP consists of the SOAP sender, which is primarily responsible for 
+transmitting SOAP messages. The SOAP receiver serves as the destination for the SOAP messages 
+while the passage path refers to a set of nodes that the message follows during transmission 
+(Beazley 90).
+The ultimate soap receiver denotes the final receiver of the SOAP messages. They are primarily used 
+for processing the SOAP messages through analysis of the contents and the header information of the 
+messages. In some cases, a SOAP intermediary is needed and serves to be the link between the SOAP 
+sender and receiver (Drake 67).
+The basic transport formats used in SOAP are the application layer protocols used in the present day 
+internet infrastructure. SOAP uses the XML as the standard format for its messages because of its 
+increased use in various internet applications. A drawback of the XML in the implementation of SOAP
+ requests and responses is that if Python is implemented in it, it results into long lengths of code; 
+therefore making code development for SOAP web services a cumbersome process (Hetland 90).
+There have been criticisms concerning the effectiveness of the SOAP messages in the implementation
+ of web services. Among its advantages is that SOAP is more extensible and flexible to be used in 
+diverse transport protocols. Apart from usage in the standard transport protocol, the HTTP, SOAP can 
+also be used in other transport protocols such as SMTP and JMS. Due to the fact that the SOAP 
+model functions effectively on the HTTP transport platform, its implementation can be integrated 
+into existing firewalls and proxies in order to enhance security of the web services during their 
+implementation.
+There are significant advantages concerning the development of web services basing on the SOAP 
+model (Drake 170). One major disadvantage is that SOAP is significantly slower in comparison with 
+other middle ware platforms such as COBRA. This slowness is a major issue during the sending of big
+ SOAP messages over the web service (Beazley 78).
+The slowness is due to issues associated with the XML format. The second disadvantage of the SOAP 
+model in web service development is that roles of the various interacting users are not dynamic rather 
+they are fixed. This implies that only a single user can have access to the services of the other party at 
+a given time. In order to eliminate biasness during service usage, developers using the SOAP model 
+incorporate some concept of polling in the development of web services (Drake 150).
+Python language comes with SOAP libraries, making it effective in the implementation of SOAP 
+requests and responses during the development of web services. There are diverse implementations of 
+the SOAP model in Python programming language. The SOAP modules incorporated in Python are an 
+integral part of the programming language during the development of web services using the SOAP 
+model.
+With the SOAP modules in its standard libraries, the development of SOAP model in Python 
+eliminated the need to have Web Services Description Language (WSDL). The SOAP.py feature 
+found in Python serves to support the development of Secure Sockets Layer (SSL). There are three 
+basic approaches to development of web services in python programming language (Beazley 167). 
+They are the Zolera Soap Infrastructure (ZSI), Soaplib and TGWebServices (TGWS). The following
+ section provides an outline of the web services development strategies in python.
+
